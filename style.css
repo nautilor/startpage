@@ -11,12 +11,12 @@ body {
   margin: 0;
   font-family: "JetBrainsMono Nerd Font";
   font-size: 15px;
-  background-color: #1f2329;
+  background-color: #1e1e2e;
   overflow: hidden;
 }
 
 h1 {
-  color: #abb2bf;
+  color: #cdd6f4;
   font-weight: normal;
   text-align: center;
   padding-top: 20px;
@@ -26,7 +26,7 @@ h1 {
 
 nav {
   display: inline-block;
-  color: #abb2bf;
+  color: #cdd6f4;
   font-size: 15px;
   margin: 0 auto;
 }
@@ -55,7 +55,7 @@ ul > li:first-of-type {
 
 ul > li > a {
   text-decoration: none;
-  color: #abb2bf;
+  color: #cdd6f4;
   transition: color 0.8s;
 }
 
@@ -64,19 +64,19 @@ ul > li > a:hover {
 }
 
 ul.green:hover {
-  color: #98c379;
+  color: #a6e3a1;
 }
 
 ul.blue:hover {
-  color: #61afef;
+  color: #89b4fa;
 }
 
 ul.red:hover {
-  color: #e06c75;
+  color: #f38ba8;
 }
 
 ul.yellow:hover {
-  color: #d19a66;
+  color: #f9e2af;
 }
 
 .nav-title {
@@ -92,7 +92,7 @@ ul.yellow:hover {
   position: relative;
   text-align: center;
   font-family: "JetBrainsMono Nerd Font";
-  background-color: #282c34;
+  background-color: #1e1e2e;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
@@ -103,7 +103,7 @@ ul.yellow:hover {
 }
 
 #flair {
-  color: #61afef;
+  color: #89b4fa;
 }
 
 #data-wrapper {
@@ -134,7 +134,7 @@ ul.yellow:hover {
   bottom: 0;
   left: 0;
   padding: 8px;
-  color: #abb2bf;
+  color: #cdd6f4;
 }
 
 #canvas {
